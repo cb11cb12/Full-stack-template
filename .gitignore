@@ -1,5 +1,4 @@
 node_modules
 
-DB_STRING
-
+# Secret file
 .env
