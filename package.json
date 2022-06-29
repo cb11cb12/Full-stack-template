@@ -1,7 +1,6 @@
 {
   "name": "full-stack-template-demo",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,6 +17,15 @@
     "mongodb": "^4.7.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.16"
-  }
+    "nodemon": "^2.0.18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cb11cb12/Full-stack-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cb11cb12/Full-stack-template/issues"
+  },
+  "homepage": "https://github.com/cb11cb12/Full-stack-template#readme",
+  "description": ""
 }
